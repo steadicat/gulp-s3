@@ -26,7 +26,7 @@
     "async": "",
     "event-stream": "*",
     "gulp-util": "~2.2.6",
-    "knox": "",
+    "knox": "git://github.com/kilianc/knox#57cb218868746487ce3f75005558b732544f1dc0",
     "mime": "~1.2.11"
   },
   "devDependencies": {
